@@ -57,7 +57,7 @@ nav a{
 .skip a {
   background: white;
   position: absolute; /* Position it relative to its parent */
-  top: -40px; /* Initially, hide it 40px above the top of its parent */
+  top: 40px; /* Initially, hide it 40px above the top of its parent */
   left: 0;
   padding: 6px;
   -webkit-transition: top 1s ease-out;
